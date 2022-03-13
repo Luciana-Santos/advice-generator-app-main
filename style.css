@@ -47,24 +47,12 @@ body {
   font-size: 24px;
   margin-bottom: 25px;
 }
-@media (min-width: 440px) {
-  .principal .quote {
-    margin-bottom: 40px;
-  }
-}
 .principal .divider {
   background: url(images/pattern-divider-mobile.svg) no-repeat;
   background-position: 50%;
   height: 16px;
   margin-bottom: 32px;
   width: 100%;
-}
-@media (min-width: 440px) {
-  .principal .divider {
-    background: url(images/pattern-divider-desktop.svg) no-repeat;
-    background-position: 50%;
-    margin-bottom: 40px;
-  }
 }
 .principal .dado {
   background: var(--prim-neon-green);
@@ -89,6 +77,14 @@ body {
     max-width: 540px;
     padding-inline: 48px;
     padding-top: 52px;
+  }
+  .principal .divider {
+    background: url(images/pattern-divider-desktop.svg) no-repeat;
+    background-position: 50%;
+    margin-bottom: 40px;
+  }
+  .principal .quote {
+    margin-bottom: 40px;
   }
 }
 /*# sourceMappingURL=style.css.map */
