@@ -1,0 +1,2 @@
+"use strict";var advId=document.querySelector("#adv-id"),quote=document.querySelector("#quote"),dado=document.querySelector("#dado");function rollDice(){fetch("https://api.adviceslip.com/advice").then((function(e){return e.json()})).then((function(e){advId.innerText=e.slip.id,quote.innerText=e.slip.advice}))}dado.addEventListener("click",rollDice);
+//# sourceMappingURL=script.js.map
