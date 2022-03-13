@@ -84,6 +84,7 @@ body {
   box-shadow: 0 0 35px 0 #52ffab;
 }
 @media (min-width: 440px) {
+  .principal {
     margin: 0 auto;
     max-width: 540px;
     padding-inline: 48px;
