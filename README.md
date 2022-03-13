@@ -16,7 +16,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](images/desktop.png)
+![Mobile](images/mobile.png)
 
 
 ### Links
@@ -36,10 +37,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - Mobile-first workflow
 
 ### What I learned
-
-```html
-<h1>JavaScript Fetch API</h1>
-```
 ```js
 fetch('https://api.adviceslip.com/advice')
   .then(r => r.json())
@@ -52,5 +49,5 @@ fetch('https://api.adviceslip.com/advice')
 ## Author
 
 - Frontend Mentor - [@Luciana-Santos](https://www.frontendmentor.io/profile/Luciana-Santos)
-- Linktree - [@yourusername](https://linktr.ee/Lucianadss)
+- Linktree - [@Lucianadss](https://linktr.ee/Lucianadss)
 
