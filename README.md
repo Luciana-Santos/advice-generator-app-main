@@ -5,7 +5,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,12 +12,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Author](#author)
 
 ## Overview
-
-### Screenshot
-
-![Desktop](images/desktop.png)
-![Mobile](images/mobile.png)
-
 
 ### Links
 
