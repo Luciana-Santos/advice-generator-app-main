@@ -24,6 +24,7 @@ body {
 .container {
   margin-inline: auto;
   width: min(90%, 75rem);
+  background: none;
 }
 .principal {
   background: var(--dark-grayish-blue);
